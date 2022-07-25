@@ -4,7 +4,7 @@
 
 This application will help you stay organized. With this app, you will be able to make time for everything you want to do. Make sure to install it or use this link below to take you to the deployed website.
 
-deployed app link: https://josuepaniagua.github.io/workDayScheduler/
+Deployed app link: https://josuepaniagua.github.io/workDayScheduler/
 
 ## Table of Contents
 
