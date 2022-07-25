@@ -20,7 +20,7 @@ Steps to follow to install Horiseon project:
 2. Use the git clone command to clone the repo
 3. Use Visual Studio to open the folder and access the project
 4. Final step, enjoy the project
-
+ 
 ## Usage
 
 When wanting to add something to time block just click the text area. When done typing click button to save your text. Next time you reload the page, your text should be there as you lefted it.
