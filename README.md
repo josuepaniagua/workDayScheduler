@@ -25,7 +25,7 @@ Steps to follow to install Horiseon project:
 
 When wanting to add something to time block just click the text area. When done typing click button to save your text. Next time you reload the page, your text should be there as you lefted it.
 
-<img width= "685" alt="Screenshot1" src=“workday.png”>
+<img width= "685" alt="workdayPicture" src=“./workday.png”>
 
 ## Credits
 
